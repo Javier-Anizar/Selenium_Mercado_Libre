@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.options import Options
 import tempfile
 import time
 
-try:
+try:p
     url = "https://www.mercadolibre.com"
 
     options = Options()
